@@ -9,7 +9,7 @@ Program starts as a plain square paper.
 During the folding, left bottom corner indicates your current step.  
 ***
 ![step4](https://github.com/ElektrischesSchaf/Origami_Heart/blob/master/snapshot/4.JPG)  
-Almost done.  
+Almost ready.  
 ***
 ![finish](https://github.com/ElektrischesSchaf/Origami_Heart/blob/master/snapshot/5.JPG)  
 Origami heart is finished.  
