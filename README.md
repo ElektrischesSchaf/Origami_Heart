@@ -1,6 +1,8 @@
 # Origami_Heart
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1854--4003-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1854-4003)
 [![License](https://img.shields.io/github/license/ElektrischesSchaf/Origami_Heart?color=750014)](./LICENSE)
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+---
 ## An OpenGL Program
 ***
 ![start](https://github.com/ElektrischesSchaf/Origami_Heart/blob/master/snapshot/1.JPG)  
